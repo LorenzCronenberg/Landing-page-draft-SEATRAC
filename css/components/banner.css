@@ -33,7 +33,7 @@
 }
 
 .btn-yours:hover {
-  background-color: black;
+  background-color: #3ccaff;
   color: white;
   border: solid black 1.0px;
   transition: .5s;
